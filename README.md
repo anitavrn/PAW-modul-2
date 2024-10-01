@@ -45,7 +45,7 @@
                                         </thead>
                                     </table>
                                 </th>
-                                <th>Admisi</th> 
+                                <th><a href="https://smb.telkomuniversity.ac.id/surabaya/">Admisi</a></th>
                             </tr>                           
                         </thead>
                     </table>
@@ -110,27 +110,27 @@
                                     <th>
                                         <h4 style="text-align: left;">Tautan Penting</h4>
                                         <ul style="text-align: left;font-weight: normal;">
-                                            <li><a>Mahasiswa dan alumni</a>
-                                            <li><a>Kerja sama</a>
-                                            <li><a>Proyek</a>
+                                            <li>Mahasiswa dan alumni</li>
+                                            <li>Kerja sama</li>
+                                            <li>Proyek</li>
                                         </ul>
                                         <h4 style="text-align: left;">Tautan Bermanfaat</h4>
                                         <ul style="text-align: left;font-weight: normal;">
-                                            <li><a>Telkom Indonesia</a>
-                                            <li><a>Yayasan Pendidikan Telkom </a>
-                                            <li><a>ITTelkom Surabaya</a>
-                                            <li><a>Website SMB</a>
+                                            <li>Telkom Indonesia</li>
+                                            <li>Yayasan Pendidikan Telkom </li>
+                                            <li>ITTelkom Surabaya</li>
+                                            <li>Website SMB</li>
                                         </ul>
                                     <th>
                                         <h4 style="text-align: left;">Info kontak</h4>
                                         <ul style="text-align: left;font-weight: normal;">
-                                            <li><a><strong>Alamat</strong> Jl. Ketintang No.156, Surabaya 60231</a>
-                                            <li><a><strong>Telepon</strong> +62 318280800</a>
-                                            <li><a><strong>E-mail</strong> is@ittelkom-sby.ac.id</a>
+                                            <li><strong>Alamat</strong> Jl. Ketintang No.156, Surabaya 60231</li>
+                                            <li><strong>Telepon</strong> +62 318280800</li>
+                                            <li><strong>E-mail</strong> is@ittelkom-sby.ac.id</li>
                                         </ul>
                                         <h4 style="text-align: left;">Media Sosial</h4>
                                         <ul style="text-align: left;font-weight: normal;">
-                                        <li><a>Telepon</a>
+                                        <li>Instagram</li>
 
                                         </ul>
                                     </th>
@@ -142,8 +142,8 @@
                 <tfoot>
                     <tr>
                         <td>
-                            <h4 style="text-align: left;">Copy Right © 2022 Information Systems</h4> 
-                            <h4 style="text-align: left; font-weight: normal;">Build with 🖤 by CODER Team</h4>
+                            <h4 style="text-align: left; line-height: 0,3">Copyright © 2022 Information Systems</h4> 
+                            <h4 style="text-align: left; font-weight: normal; line-height: 0,3"">Build with 🖤 by CODER Team</h4>
                             </td>
                         </table>       
                             </td>
